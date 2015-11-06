@@ -31,6 +31,7 @@ public class Inicio extends javax.swing.JFrame {
         jLabel1 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
 
         jButton1.setText("Toca!");
         jButton1.setCursor(new java.awt.Cursor(java.awt.Cursor.WAIT_CURSOR));

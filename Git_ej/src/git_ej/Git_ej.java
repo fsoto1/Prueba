@@ -16,11 +16,12 @@ public class Git_ej {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
+
         Inicio obj = new Inicio();
+        Clase o = new Clase();
         obj.show();
-        //obj.setVisible(true);
-        
+        o.hola();
+
     }
-    
+
 }
